@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Simple Notepad v1.0.0\Simple Notepad\Simple Notepad\bin\Debug\DrWeabo - Simple Notepad.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Simple Notepad v1.0.0\Simple Notepad\Simple Notepad\bin\Debug\DrWeabo - Simple Notepad.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Simple Notepad v1.0.0\Simple Notepad\Simple Notepad\bin\Debug\DrWeabo - Simple Notepad.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Simple Notepad v1.0.0\Simple Notepad\Simple Notepad\bin\Debug\DrWeabo - Simple Notepad.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Simple Notepad v1.0.0\Simple Notepad\Simple Notepad\obj\Debug\Simple Notepad.vbprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Simple Notepad v1.0.0\Simple Notepad\Simple Notepad\obj\Debug\Simple_Notepad.Form1.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\Simple Notepad v1.0.0\Simple Notepad\Simple Notepad\obj\Debug\Simple_Notepad.Resources.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\Simple Notepad v1.0.0\Simple Notepad\Simple Notepad\obj\Debug\Simple Notepad.vbproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Simple Notepad v1.0.0\Simple Notepad\Simple Notepad\obj\Debug\Simple Notepad.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Simple Notepad v1.0.0\Simple Notepad\Simple Notepad\obj\Debug\DrWeabo - Simple Notepad.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Simple Notepad v1.0.0\Simple Notepad\Simple Notepad\obj\Debug\DrWeabo - Simple Notepad.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Simple Notepad v1.0.0\Simple Notepad\Simple Notepad\obj\Debug\DrWeabo - Simple Notepad.pdb
